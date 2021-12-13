@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main
+public class 2021_8
 {
     static int[][] disp = 
         {{1, 1, 1, 0, 1, 1, 1}, {0, 0, 1, 0, 0, 0, 1}, 
