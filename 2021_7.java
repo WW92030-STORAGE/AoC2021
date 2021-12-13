@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class 2021_7 {
     public static void main(String[] args) {
         Scanner x = new Scanner(System.in);
         String[] stuff = x.nextLine().split(",");
